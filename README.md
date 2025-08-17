@@ -1,4 +1,4 @@
-# Lap-trinh-tren-web
+# Lập Trình Trên Web
 Đồ án môn Lập trình Web tập trung vào việc xây dựng một website bán điện thoại di động với các chức năng tham khảo từ hệ thống của Thế Giới Di Động. Website được thiết kế theo mô hình MVC, bảo đảm phân tách rõ ràng giữa Model – View – Controller và có thể áp dụng thực tế.
 
 Hệ thống gồm hai phân hệ chính:
